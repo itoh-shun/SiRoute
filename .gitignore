@@ -1,0 +1,16 @@
+.deploy/tmp
+.deploy/tmp/*
+.deploy/logs
+.deploy/logs/
+.deploy/logs/deploy.log
+.deploy/env.php
+.vs/VSWorkspaceState.json
+.vs/slnx.sqlite
+.vscode
+.env.php
+.tmp
+node_modules/
+/vendor/
+src/MultiAppFrame/resources/js/bundle.js
+*.zip
+makeAutoload.php
